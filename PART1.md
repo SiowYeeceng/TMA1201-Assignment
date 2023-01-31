@@ -35,4 +35,7 @@
 
 ## Problems Encountered & Solutions
 
-1. File Saving - Cannot load the file after it saved, will change the source code later
+1. Alien movement - modified the code
+2. Doesn't have default value when the game start - Set a default value of row and column which is 5 and 9
+3. the number of zombie is more than the total space inside - Set a limit to the number of zombie which is 4
+4. User can insert even number row and column - set the row and column to only accept odd number
