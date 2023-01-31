@@ -29,7 +29,8 @@ g++ main.cpp
 
 1. Download the source code and compile it by using cmd or compiler
 2. type help to check available command
-3. Enjoy your game
+3. Try to kill all the zombie inside to archive victory
+4. Enjoy your game
 
 ## Progress Log
 
@@ -37,8 +38,6 @@ g++ main.cpp
 - [Part 2](PART2.md)
 
 ## Contributors
-
-Please replace the following with your group members' names. 
 
 - Tan Chi Lim
 - Chew Ming Yao
