@@ -14,7 +14,7 @@ Other than that, there are also some figure to make the game easy
 3. r - rock will stop you down 
 4. h - add 20 life to alien
 5. . - left by alien moves, reset to random object after Alien's turn ends
-6.  - just an empty space
+6. " " - just an empty space
 7.  a - alien
 8. z - zombie
 ## Compilation Instructions
